@@ -48,3 +48,28 @@ print('mse : ', mse)
 #### 평균 절대 오차 (Mean Absolute Error)
 
 ![image-20200122230202536](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20200122230202536.png)
+
+
+
+#### Model.summary()
+
+![image-20200123000628575](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20200123000628575.png)
+
+
+
+##### y = wx + b (w:가중치 b:절편)
+
+##### Layer(층)이 깊어질때마다 w(weight: 가중치)값을 계산한다.
+
+##### output shape (none, 5): 0행 5열, 
+
+##### parma 10: Input+bias(1개) = 2개, 2*5(5개의 node) = 10
+
+##### total params = 35: 신경망이 총 35개
+
+##### parameter가 많아질수록 성능은 좋아지나, 속도가 느려진다.
+
+
+
+
+
