@@ -32,7 +32,7 @@ model.summary()
 
 
 ### Summary
-
+![summary2](https://user-images.githubusercontent.com/59241047/73275572-a7d47600-422a-11ea-91f9-35444b5163c0.JPG)
 
 
 
