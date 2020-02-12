@@ -1,2 +1,3 @@
 # Keras
-TIL - About Keras
+TIL - About Keras that I learned
+
