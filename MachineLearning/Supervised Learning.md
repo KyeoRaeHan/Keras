@@ -10,14 +10,14 @@
 #### 분류(Classification): 클래스 레이블 예측
 
 ##### 이진분류(Binary Classification)
-
+![binary_class](https://user-images.githubusercontent.com/59241047/74606261-55dc8d00-5112-11ea-825c-f8cef6953ad5.png)
 
 예측하는 데이터의 클래스 레이블이 **2가지**인 경우 해당된다.
-
 ex) 스팸메일, 시험 PASS/FAIL
 
 
 ##### 다중분류(Multiclass Classification)
+![multi_classification](https://user-images.githubusercontent.com/59241047/74606390-65a8a100-5113-11ea-8fd0-13117d48adf5.JPG)
 
 예측하는 데이터의 클래스 레이블이 **3개 이상**인 경우 해당된다.
 
@@ -25,9 +25,9 @@ ex) MNIST
 
 
 #### 회귀(Regression)
+<img width="385" alt="linear_regression" src="https://user-images.githubusercontent.com/59241047/74606406-79540780-5113-11ea-802c-340d08a8e82b.png">
 
 연속적인 출력값을 예측하는 것. 
-
 회귀분석은 X(예측변수, 설명변수, 입력)와 Y(반응변수,출력,타깃)가 주어졌을 때,  출력값을 예측하는 두 변수 사이의 관계를 찾습니다.
 
 
