@@ -1,10 +1,4 @@
-# 머신러닝 유형
-
-
-
-![](C:\Users\user\Desktop\프레젠테이션1.jpg)
-
-### 지도학습(Supervised Learning)
+## 지도학습(Supervised Learning)
 
 **레이블된(정답이 정해져있는) 데이터**로 모델을 학습시켜, 이전에 본 적이 없는 새로운 데이터를 **예측**하는 것
 
@@ -13,38 +7,27 @@
 ***레이블(label)**은 데이터에 정해진 특징을 뜻한다.
 
 
-
-활용방법
-
-대표적인 데이터 - 붓꽃, cifar10
-
-
-
-
-
-
-
 #### 분류(Classification): 클래스 레이블 예측
 
 ##### 이진분류(Binary Classification)
+
+![binary_class](https://user-images.githubusercontent.com/59241047/74606227-05652f80-5112-11ea-9f73-72e088f3437f.png)
 
 예측하는 데이터의 클래스 레이블이 **2가지**인 경우 해당된다.
 
 ex) 스팸메일, 시험 PASS/FAIL
 
 
-
 ##### 다중분류(Multiclass Classification)
+![multi](https://user-images.githubusercontent.com/59241047/74606236-1e6de080-5112-11ea-8a97-dbe08f708d43.JPG)
 
 예측하는 데이터의 클래스 레이블이 **3개 이상**인 경우 해당된다.
 
 ex) MNIST
 
 
-
-
-
 #### 회귀(Regression)
+<img width="385" alt="linearregression" src="https://user-images.githubusercontent.com/59241047/74606242-288fdf00-5112-11ea-8282-d3c323216ba0.png">
 
 연속적인 출력값을 예측하는 것. 
 
