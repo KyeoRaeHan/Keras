@@ -11,7 +11,7 @@
 
 ##### 이진분류(Binary Classification)
 
-![binary_class](https://user-images.githubusercontent.com/59241047/74606227-05652f80-5112-11ea-9f73-72e088f3437f.png)
+![binary_class](https://user-images.githubusercontent.com/59241047/74606261-55dc8d00-5112-11ea-825c-f8cef6953ad5.png)
 
 예측하는 데이터의 클래스 레이블이 **2가지**인 경우 해당된다.
 
@@ -19,7 +19,7 @@ ex) 스팸메일, 시험 PASS/FAIL
 
 
 ##### 다중분류(Multiclass Classification)
-![multi](https://user-images.githubusercontent.com/59241047/74606236-1e6de080-5112-11ea-8a97-dbe08f708d43.JPG)
+
 
 예측하는 데이터의 클래스 레이블이 **3개 이상**인 경우 해당된다.
 
@@ -27,7 +27,6 @@ ex) MNIST
 
 
 #### 회귀(Regression)
-<img width="385" alt="linearregression" src="https://user-images.githubusercontent.com/59241047/74606242-288fdf00-5112-11ea-8282-d3c323216ba0.png">
 
 연속적인 출력값을 예측하는 것. 
 
