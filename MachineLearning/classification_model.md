@@ -49,7 +49,7 @@ Margin을 최대화하는 이유는 일반화 오차가 낮아지는 경향이 �
 
 
 #### 프로세스
-![tree2](https://user-images.githubusercontent.com/59241047/75026996-344c1e80-54e1-11ea-9bc6-ca7a7d30f382.PNG)
+![tree2](https://user-images.githubusercontent.com/59241047/75027299-a7559500-54e1-11ea-9ca2-fa4ab39aa122.PNG)
 
 
 
