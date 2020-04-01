@@ -34,6 +34,23 @@
 
 ##### 7. 업무에 활용
 
+--------------------------------------------------------
+
+##### 1. Project Scoping(Define Problem)
+
+##### 2. Data Collection
+
+##### 3. EDA(Explanatory Data Analysis)
+
+##### 4. Data Preprocessing
+
+##### 5. Feature Engineering
+
+##### 6. Modeling
+
+##### 7. Evaluation
+
+##### 8. Project Delivery / Insights
 
 
 
